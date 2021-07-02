@@ -5,7 +5,7 @@
            fetch=".."
 	   />
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/platform/"
+           fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-11.0.0_r38"
            remote="aosp"
