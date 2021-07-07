@@ -5,6 +5,7 @@
 	   />
 
 	<project path="common" name="fts-linux" remote="fts-github" revision="refs/heads/android-mainline" />
+
 	<project path="device/fts/homie" name="device_fts_homie" remote="fts-github" revision="refs/heads/master" />
 </manifest>
 
