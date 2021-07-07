@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="common" name="linux" remote="fts-github" />
+	<project path="common" name="fts-linux" remote="fts-github" />
 </manifest>
 
