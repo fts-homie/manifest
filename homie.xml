@@ -4,6 +4,6 @@
            fetch="../fts-homie/"
 	   />
 
-	<project path="common" name="fts-linux" remote="fts-github" />
+	<project path="common" name="fts-linux" remote="fts-github" revision="refs/heads/android-mainline" />
 </manifest>
 
